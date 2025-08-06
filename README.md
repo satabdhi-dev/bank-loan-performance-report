@@ -125,8 +125,8 @@ GROUP BY address_state;
 
 For any queries or collaborations:
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com) • [GitHub](https://github.com/your-username)
+**Satabdhi Priyadarsani**  
+[LinkedIn](https://www.linkedin.com/in/satabdhi-priyadarsani-98093226b/) • [Email](satabdhi73@gmail.com) • [GitHub](https://github.com/satabdhi-dev)
 
 ---
 
